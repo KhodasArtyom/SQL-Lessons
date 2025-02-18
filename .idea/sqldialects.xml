@@ -6,8 +6,14 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/SQL10.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/SQL12.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/SQL13.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/SQL14.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SQL14.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SQL15.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SQL16HomeWork1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SQL18.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SQL19.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/SQL2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SQL20.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/SQL21.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/SQL8.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/resources/SQL9.sql" dialect="PostgreSQL" />
   </component>
